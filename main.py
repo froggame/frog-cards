@@ -11,3 +11,6 @@ print ('  By Sean E.             /\   | |  ')
 print ('                         \ \__/ /')
 print ('                          \____/')
 input ("Press Enter to continue...")
+import os
+os.system('clear')
+os.system('cls')

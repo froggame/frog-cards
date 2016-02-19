@@ -24,8 +24,11 @@ print (' ')
 print (' ')
 print (' ')
 print (' ')
-# Init varibles
 
+# Init varibles
 frogs = 50
 addT-subF = True
 toTF = 0
+
+# Start main loop
+print ('You currently have (frogs) frog[s]. the card is...')

@@ -24,3 +24,8 @@ print (' ')
 print (' ')
 print (' ')
 print (' ')
+# Init varibles
+
+frogs = 50
+addT-subF = True
+toTF = 0

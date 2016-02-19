@@ -29,6 +29,10 @@ print (' ')
 frogs = 50
 addT-subF = True
 toTF = 0
+keep_loop_running = True
 
 # Start main loop
-print ('You currently have (frogs) frog[s]. the card is...')
+while keep_loop_running True:
+  print ('You currently have (frogs) frog[s]. the card is...')
+
+# remember the tab!

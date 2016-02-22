@@ -34,5 +34,7 @@ keep_loop_running = True
 # Start main loop
 while keep_loop_running True:
   print ('You currently have (frogs) frog[s]. the card is...')
+  # Randomize Addt-Subf between True and False
+  # Randomize tpTF between 2 to 5
 
 # remember the tab!
